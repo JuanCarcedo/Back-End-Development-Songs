@@ -199,6 +199,3 @@ def delete_song(id: int) -> tuple:
         response: tuple = {}, 204
 
     return response
-
-# git commit -am "implemented songs service"
-# git push --set-upstream origin backend-rest
