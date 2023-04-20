@@ -6,8 +6,7 @@
 2) Instructions
    1) How to install
    2) Version Updates
-3) Screenshots of working solution
-4) Author and Licence
+3) Author and Licence
 
 
 ## IBM Skills Network - Intro to the project
@@ -15,7 +14,7 @@ The starting point of this project can be found here [IBM Project](https://githu
 I implemented the necessary code to make this project work (initial structure given, please check the repository).
 
 Changes:
-+ updated WIP
++ backend/routes.py
 
 ### Background
 Your client has asked you to build a website for a famous band. The backend developer on the project has recently left, and you need to finish the code so the website can go live. The application consists of some different microservices working together.  
@@ -26,6 +25,7 @@ This microservice works with MongoDB database to store lyrics of the most popula
 _This is only the Songs' management._  
 Linked parts of this project:
 - [Back-End-Development-Pictures](https://github.com/JuanCarcedo/Back-End-Development-Pictures)
+- [Back-End-Development-Django](https://github.com/JuanCarcedo/Back-end-Development-Capstone)
 
 ### Important Notes
 You may need IBM Cloud account for some of the deployments.  
@@ -48,10 +48,7 @@ I use WSL for CURL test.
 - Remember to Commit and Push changes to your GitHub!
 
 ### Version Updates:  
-+ v0 -- 2023/04 - WIP Solution.
-
-## Screenshots of working solution
-WIP
++ v0 -- 2023/04 - Deployed.
 
 ## Author and Licence
 This is a template from an IBM repository:  
