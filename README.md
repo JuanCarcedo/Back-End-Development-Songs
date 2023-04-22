@@ -43,8 +43,12 @@ I use WSL for CURL test.
   - `git config --global user.name "MyUser"`
 - Local clone `git clone <URL_PROJECT>` the project in your local machine.
 - Open your favourite IDE (I use [PyCharm](https://www.jetbrains.com/pycharm/)).
-- Create a virtual environment (I am using Python 3.11).
-- Install required packages using `py -m pip install -U -r requirements.txt`
+- You can install the requirements manually:
+   1) Create a virtual environment (I am using Python 3.11).
+   2) Install required packages using `py -m pip install -U -r requirements.txt`  
+- You can install them via bash: 
+   1) `cd Back-end-Development-Capstone`  
+   2) `bash ./bin/setup.sh`
 - Remember to Commit and Push changes to your GitHub!
 
 ### Version Updates:  
